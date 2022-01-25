@@ -1,0 +1,2 @@
+# Django: Moove - Aluguel de Carros
+Projeto de conclusão da disciplina de Banco de Dados do Curso de Engenharia de Sistemas, onde foram aplicados conhecimentos adquiridos na disciplina, como modelagem de banco de dados, normalização e django básico.
